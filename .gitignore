@@ -1,0 +1,19 @@
+/angles of cylinders.xlsx
+/angles_pickle
+/angles_txt
+/CD_ReD_cylinder.py
+/CD_ReD_cylinder.xlsx
+/CD_ReD_cylinder_redo.xlsx
+/CD_ReD_exmp_dataset_redo.csv
+/CD_ReD_exmp_dataset_redo_omit.csv
+/CD_ReD_expm_dataset.csv
+/constants_comment.in
+/cylinder_CD_csv
+/datasets_and_figures
+/drag_coef_rot_tree.ipynb
+/estimate_of_CD,CF,CP_by_sum_cylinders.xlsx
+/fractal_dimension
+/get_branch_angle_rotation.ipynb
+/Interpolation_for_CF_CP.ipynb
+/newtree_with_angles.py
+/range_of_Re_cylinders.ipynb
